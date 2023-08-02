@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4301160.css",
+    "main.js": "/static/js/main.907edc9e.js",
+    "static/media/TEC_QA_question.png": "/static/media/TEC_QA_question.16d7c2f821064e93aa2c.png",
+    "static/media/yourPlace_PlaceSWU.png": "/static/media/yourPlace_PlaceSWU.cec55427fcd0af300035.png",
+    "static/media/yourPlace_SwuMap.png": "/static/media/yourPlace_SwuMap.6b27b61d8794df38b6b0.png",
+    "static/media/myPic_Grad.jpg": "/static/media/myPic_Grad.32a0924cb1f598ee1ed3.jpg",
+    "static/media/MERN_cert.jpg": "/static/media/MERN_cert.775cf560e82c01e3bf18.jpg",
+    "static/media/TEC_QA_Answer.png": "/static/media/TEC_QA_Answer.9f70ed1bf74fc6e5b56d.png",
+    "static/media/WebDevBootcamp_cert.jpg": "/static/media/WebDevBootcamp_cert.a2461bb78d49e53b927f.jpg",
+    "static/media/yourPlace_AddPlaceSWU.png": "/static/media/yourPlace_AddPlaceSWU.1b7732e5171f56aa0095.png",
+    "static/media/yourPlace_Home.png": "/static/media/yourPlace_Home.426afb441baaaeba5ce4.png",
+    "static/media/Keeper.png": "/static/media/Keeper.e47f230c8612cd00cadf.png",
+    "static/media/myPic.jpg": "/static/media/myPic.ba7597e4a7de6a8f4e30.jpg",
+    "index.html": "/index.html",
+    "main.e4301160.css.map": "/static/css/main.e4301160.css.map",
+    "main.907edc9e.js.map": "/static/js/main.907edc9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4301160.css",
+    "static/js/main.907edc9e.js"
+  ]
+}

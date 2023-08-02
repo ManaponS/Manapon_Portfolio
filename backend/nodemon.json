@@ -1,0 +1,8 @@
+{
+  "env": {
+    "ADMIN_KEY": "mnps79730",
+    "DB_USER": "Mnps",
+    "DB_PASSWORD": "manaponSanguanklin",
+    "DB_NAME": "portfolio-test"
+  }
+}
